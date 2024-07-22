@@ -28,23 +28,21 @@ I'm Shubhrajit Sadhukhan, a sophomore at IIIT Ranchi.
 
 ### 🌐 Let's Connect
 
-<a href="https://www.linkedin.com/in/shubhrajit-sadhukhan">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"/>
-</a>
-<a href="https://stackoverflow.com/users/14313852/shub">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/user1484iw/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/shubjt/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" />
-</a>
+<a href="https://www.linkedin.com/in/shubhrajit-sadhukhan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"/></a>
+<a href="https://stackoverflow.com/users/14313852/shub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/user1484iw/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shubjt/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 
 ###
 
+<details>
+<summary>:octocat: Github Stats</summary>
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=sbrjt&show_icons=true&theme=radical&rank_icon=github&custom_title=My%20Stats)
 
+</details>
+  
 <!--
 
 ####
