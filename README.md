@@ -1,7 +1,5 @@
 ## Hi there, I'm Shub! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">
 
-### 😊 About Me
-
 I'm Shubhrajit Sadhukhan, a sophomore at IIIT Ranchi.
 
 ### 🛠️ My tech stack
@@ -22,11 +20,7 @@ I'm Shubhrajit Sadhukhan, a sophomore at IIIT Ranchi.
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💡 Techy Quote
-
-> I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in. ― Linus Torvalds
-
-### 🌐 Let's Connect
+### Let's Connect:
 
 <a href="https://www.linkedin.com/in/shubhrajit-sadhukhan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"/></a>
 <a href="https://stackoverflow.com/users/14313852/shub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
